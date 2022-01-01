@@ -1,0 +1,90 @@
+1/1/0001 11:52:57 PM: vbc : (0,0) : error BC30737: No accessible 'Main' method with an appropriate signature was found in 'wellsee'. 0 | 0
+1/1/0001 11:52:57 PM: C:\Users\Andrew\AppData\Local\Temp\ax3uj22j.0.vb(172,0) : error BC31029: Method 'Public Shared Sub eDSFASDfsd()' cannot handle Event 'Public Event Load(sender As Object, e As System.EventArgs)' because they do not have the same signature. 172 | 0
+1/1/0001 11:52:59 PM: vbc : (0,0) : error BC30737: No accessible 'Main' method with an appropriate signature was found in 'wellsee'. 0 | 0
+1/1/0001 11:52:59 PM: C:\Users\Andrew\AppData\Local\Temp\wvghot1k.0.vb(172,0) : error BC31029: Method 'Public Shared Sub eDSFASDfsd()' cannot handle Event 'Public Event Load(sender As Object, e As System.EventArgs)' because they do not have the same signature. 172 | 0
+1/1/0001 11:53:00 PM: vbc : (0,0) : error BC30737: No accessible 'Main' method with an appropriate signature was found in 'wellsee'. 0 | 0
+1/1/0001 11:53:00 PM: C:\Users\Andrew\AppData\Local\Temp\43wiuzxc.0.vb(172,0) : error BC31029: Method 'Public Shared Sub eDSFASDfsd()' cannot handle Event 'Public Event Load(sender As Object, e As System.EventArgs)' because they do not have the same signature. 172 | 0
+1/1/0001 11:53:01 PM: vbc : (0,0) : error BC30737: No accessible 'Main' method with an appropriate signature was found in 'wellsee'. 0 | 0
+1/1/0001 11:53:01 PM: C:\Users\Andrew\AppData\Local\Temp\3zjt1b2z.0.vb(172,0) : error BC31029: Method 'Public Shared Sub eDSFASDfsd()' cannot handle Event 'Public Event Load(sender As Object, e As System.EventArgs)' because they do not have the same signature. 172 | 0
+1/1/0001 11:53:02 PM: vbc : (0,0) : error BC30737: No accessible 'Main' method with an appropriate signature was found in 'wellsee'. 0 | 0
+1/1/0001 11:53:02 PM: C:\Users\Andrew\AppData\Local\Temp\4bs2lzuh.0.vb(172,0) : error BC31029: Method 'Public Shared Sub eDSFASDfsd()' cannot handle Event 'Public Event Load(sender As Object, e As System.EventArgs)' because they do not have the same signature. 172 | 0
+1/1/0001 11:54:20 PM: vbc : (0,0) : error BC30737: No accessible 'Main' method with an appropriate signature was found in 'braarba'. 0 | 0
+1/1/0001 11:54:21 PM: vbc : (0,0) : error BC30737: No accessible 'Main' method with an appropriate signature was found in 'braarba'. 0 | 0
+1/1/0001 11:54:23 PM: vbc : (0,0) : error BC30737: No accessible 'Main' method with an appropriate signature was found in 'braarba'. 0 | 0
+1/1/0001 11:54:23 PM: vbc : (0,0) : error BC30737: No accessible 'Main' method with an appropriate signature was found in 'braarba'. 0 | 0
+1/1/0001 11:54:25 PM: vbc : (0,0) : error BC30737: No accessible 'Main' method with an appropriate signature was found in 'braarba'. 0 | 0
+1/1/0001 1:04:11 AM: C:\Users\Andrew\AppData\Local\Temp\ux1tazec.0.vb(256,0) : error BC30182: Type expected. 256 | 0
+1/1/0001 1:04:13 AM: C:\Users\Andrew\AppData\Local\Temp\bzcaylny.0.vb(256,0) : error BC30182: Type expected. 256 | 0
+1/1/0001 1:04:14 AM: C:\Users\Andrew\AppData\Local\Temp\zvvtqoet.0.vb(256,0) : error BC30182: Type expected. 256 | 0
+1/1/0001 1:04:16 AM: C:\Users\Andrew\AppData\Local\Temp\jo2otvkr.0.vb(256,0) : error BC30182: Type expected. 256 | 0
+1/1/0001 1:04:18 AM: C:\Users\Andrew\AppData\Local\Temp\sofjik1y.0.vb(256,0) : error BC30182: Type expected. 256 | 0
+1/1/0001 3:56:17 PM: C:\Users\Andrew\AppData\Local\Temp\s0qt3i3j.0.vb(23,0) : error BC30663: Attribute 'AssemblyDescriptionAttribute' cannot be applied multiple times. 23 | 0
+1/1/0001 3:56:17 PM: C:\Users\Andrew\AppData\Local\Temp\s0qt3i3j.0.vb(24,0) : error BC30663: Attribute 'AssemblyCompanyAttribute' cannot be applied multiple times. 24 | 0
+1/1/0001 3:56:17 PM: C:\Users\Andrew\AppData\Local\Temp\s0qt3i3j.0.vb(25,0) : error BC30663: Attribute 'AssemblyProductAttribute' cannot be applied multiple times. 25 | 0
+1/1/0001 3:56:17 PM: C:\Users\Andrew\AppData\Local\Temp\s0qt3i3j.0.vb(26,0) : error BC30663: Attribute 'AssemblyCopyrightAttribute' cannot be applied multiple times. 26 | 0
+1/1/0001 3:56:17 PM: C:\Users\Andrew\AppData\Local\Temp\s0qt3i3j.0.vb(27,0) : error BC30663: Attribute 'AssemblyTrademarkAttribute' cannot be applied multiple times. 27 | 0
+1/1/0001 3:56:17 PM: C:\Users\Andrew\AppData\Local\Temp\s0qt3i3j.0.vb(28,0) : error BC30663: Attribute 'AssemblyVersionAttribute' cannot be applied multiple times. 28 | 0
+1/1/0001 3:56:17 PM: C:\Users\Andrew\AppData\Local\Temp\s0qt3i3j.0.vb(29,0) : error BC30663: Attribute 'AssemblyFileVersionAttribute' cannot be applied multiple times. 29 | 0
+1/1/0001 3:56:17 PM: C:\Users\Andrew\AppData\Local\Temp\s0qt3i3j.0.vb(297,0) : error BC30465: 'Imports' statements must precede any declarations. 297 | 0
+1/1/0001 3:56:17 PM: C:\Users\Andrew\AppData\Local\Temp\s0qt3i3j.0.vb(298,0) : error BC30465: 'Imports' statements must precede any declarations. 298 | 0
+1/1/0001 3:56:18 PM: C:\Users\Andrew\AppData\Local\Temp\rhrmzek0.0.vb(23,0) : error BC30663: Attribute 'AssemblyDescriptionAttribute' cannot be applied multiple times. 23 | 0
+1/1/0001 3:56:18 PM: C:\Users\Andrew\AppData\Local\Temp\rhrmzek0.0.vb(24,0) : error BC30663: Attribute 'AssemblyCompanyAttribute' cannot be applied multiple times. 24 | 0
+1/1/0001 3:56:18 PM: C:\Users\Andrew\AppData\Local\Temp\rhrmzek0.0.vb(25,0) : error BC30663: Attribute 'AssemblyProductAttribute' cannot be applied multiple times. 25 | 0
+1/1/0001 3:56:18 PM: C:\Users\Andrew\AppData\Local\Temp\rhrmzek0.0.vb(26,0) : error BC30663: Attribute 'AssemblyCopyrightAttribute' cannot be applied multiple times. 26 | 0
+1/1/0001 3:56:18 PM: C:\Users\Andrew\AppData\Local\Temp\rhrmzek0.0.vb(27,0) : error BC30663: Attribute 'AssemblyTrademarkAttribute' cannot be applied multiple times. 27 | 0
+1/1/0001 3:56:18 PM: C:\Users\Andrew\AppData\Local\Temp\rhrmzek0.0.vb(28,0) : error BC30663: Attribute 'AssemblyVersionAttribute' cannot be applied multiple times. 28 | 0
+1/1/0001 3:56:18 PM: C:\Users\Andrew\AppData\Local\Temp\rhrmzek0.0.vb(29,0) : error BC30663: Attribute 'AssemblyFileVersionAttribute' cannot be applied multiple times. 29 | 0
+1/1/0001 3:56:18 PM: C:\Users\Andrew\AppData\Local\Temp\rhrmzek0.0.vb(297,0) : error BC30465: 'Imports' statements must precede any declarations. 297 | 0
+1/1/0001 3:56:18 PM: C:\Users\Andrew\AppData\Local\Temp\rhrmzek0.0.vb(298,0) : error BC30465: 'Imports' statements must precede any declarations. 298 | 0
+1/1/0001 3:56:19 PM: C:\Users\Andrew\AppData\Local\Temp\xugtri1u.0.vb(23,0) : error BC30663: Attribute 'AssemblyDescriptionAttribute' cannot be applied multiple times. 23 | 0
+1/1/0001 3:56:19 PM: C:\Users\Andrew\AppData\Local\Temp\xugtri1u.0.vb(24,0) : error BC30663: Attribute 'AssemblyCompanyAttribute' cannot be applied multiple times. 24 | 0
+1/1/0001 3:56:19 PM: C:\Users\Andrew\AppData\Local\Temp\xugtri1u.0.vb(25,0) : error BC30663: Attribute 'AssemblyProductAttribute' cannot be applied multiple times. 25 | 0
+1/1/0001 3:56:19 PM: C:\Users\Andrew\AppData\Local\Temp\xugtri1u.0.vb(26,0) : error BC30663: Attribute 'AssemblyCopyrightAttribute' cannot be applied multiple times. 26 | 0
+1/1/0001 3:56:19 PM: C:\Users\Andrew\AppData\Local\Temp\xugtri1u.0.vb(27,0) : error BC30663: Attribute 'AssemblyTrademarkAttribute' cannot be applied multiple times. 27 | 0
+1/1/0001 3:56:19 PM: C:\Users\Andrew\AppData\Local\Temp\xugtri1u.0.vb(28,0) : error BC30663: Attribute 'AssemblyVersionAttribute' cannot be applied multiple times. 28 | 0
+1/1/0001 3:56:19 PM: C:\Users\Andrew\AppData\Local\Temp\xugtri1u.0.vb(29,0) : error BC30663: Attribute 'AssemblyFileVersionAttribute' cannot be applied multiple times. 29 | 0
+1/1/0001 3:56:19 PM: C:\Users\Andrew\AppData\Local\Temp\xugtri1u.0.vb(297,0) : error BC30465: 'Imports' statements must precede any declarations. 297 | 0
+1/1/0001 3:56:19 PM: C:\Users\Andrew\AppData\Local\Temp\xugtri1u.0.vb(298,0) : error BC30465: 'Imports' statements must precede any declarations. 298 | 0
+1/1/0001 3:56:20 PM: C:\Users\Andrew\AppData\Local\Temp\2fxi0fxy.0.vb(23,0) : error BC30663: Attribute 'AssemblyDescriptionAttribute' cannot be applied multiple times. 23 | 0
+1/1/0001 3:56:20 PM: C:\Users\Andrew\AppData\Local\Temp\2fxi0fxy.0.vb(24,0) : error BC30663: Attribute 'AssemblyCompanyAttribute' cannot be applied multiple times. 24 | 0
+1/1/0001 3:56:20 PM: C:\Users\Andrew\AppData\Local\Temp\2fxi0fxy.0.vb(25,0) : error BC30663: Attribute 'AssemblyProductAttribute' cannot be applied multiple times. 25 | 0
+1/1/0001 3:56:20 PM: C:\Users\Andrew\AppData\Local\Temp\2fxi0fxy.0.vb(26,0) : error BC30663: Attribute 'AssemblyCopyrightAttribute' cannot be applied multiple times. 26 | 0
+1/1/0001 3:56:20 PM: C:\Users\Andrew\AppData\Local\Temp\2fxi0fxy.0.vb(27,0) : error BC30663: Attribute 'AssemblyTrademarkAttribute' cannot be applied multiple times. 27 | 0
+1/1/0001 3:56:20 PM: C:\Users\Andrew\AppData\Local\Temp\2fxi0fxy.0.vb(28,0) : error BC30663: Attribute 'AssemblyVersionAttribute' cannot be applied multiple times. 28 | 0
+1/1/0001 3:56:20 PM: C:\Users\Andrew\AppData\Local\Temp\2fxi0fxy.0.vb(29,0) : error BC30663: Attribute 'AssemblyFileVersionAttribute' cannot be applied multiple times. 29 | 0
+1/1/0001 3:56:20 PM: C:\Users\Andrew\AppData\Local\Temp\2fxi0fxy.0.vb(297,0) : error BC30465: 'Imports' statements must precede any declarations. 297 | 0
+1/1/0001 3:56:20 PM: C:\Users\Andrew\AppData\Local\Temp\2fxi0fxy.0.vb(298,0) : error BC30465: 'Imports' statements must precede any declarations. 298 | 0
+1/1/0001 3:56:21 PM: C:\Users\Andrew\AppData\Local\Temp\fqkughz4.0.vb(23,0) : error BC30663: Attribute 'AssemblyDescriptionAttribute' cannot be applied multiple times. 23 | 0
+1/1/0001 3:56:21 PM: C:\Users\Andrew\AppData\Local\Temp\fqkughz4.0.vb(24,0) : error BC30663: Attribute 'AssemblyCompanyAttribute' cannot be applied multiple times. 24 | 0
+1/1/0001 3:56:21 PM: C:\Users\Andrew\AppData\Local\Temp\fqkughz4.0.vb(25,0) : error BC30663: Attribute 'AssemblyProductAttribute' cannot be applied multiple times. 25 | 0
+1/1/0001 3:56:21 PM: C:\Users\Andrew\AppData\Local\Temp\fqkughz4.0.vb(26,0) : error BC30663: Attribute 'AssemblyCopyrightAttribute' cannot be applied multiple times. 26 | 0
+1/1/0001 3:56:21 PM: C:\Users\Andrew\AppData\Local\Temp\fqkughz4.0.vb(27,0) : error BC30663: Attribute 'AssemblyTrademarkAttribute' cannot be applied multiple times. 27 | 0
+1/1/0001 3:56:21 PM: C:\Users\Andrew\AppData\Local\Temp\fqkughz4.0.vb(28,0) : error BC30663: Attribute 'AssemblyVersionAttribute' cannot be applied multiple times. 28 | 0
+1/1/0001 3:56:21 PM: C:\Users\Andrew\AppData\Local\Temp\fqkughz4.0.vb(29,0) : error BC30663: Attribute 'AssemblyFileVersionAttribute' cannot be applied multiple times. 29 | 0
+1/1/0001 3:56:21 PM: C:\Users\Andrew\AppData\Local\Temp\fqkughz4.0.vb(297,0) : error BC30465: 'Imports' statements must precede any declarations. 297 | 0
+1/1/0001 3:56:21 PM: C:\Users\Andrew\AppData\Local\Temp\fqkughz4.0.vb(298,0) : error BC30465: 'Imports' statements must precede any declarations. 298 | 0
+1/1/0001 8:42:59 PM: C:\Users\Andrew\AppData\Local\Temp\liqnzmcc.0.vb(219,0) : error BC30451: Name 'inagGEQxDP_uWwurgkUe11' is not declared. 219 | 0
+1/1/0001 8:42:59 PM: C:\Users\Andrew\AppData\Local\Temp\liqnzmcc.0.vb(220,0) : error BC30451: Name 'inagGEQxDP_uWwurgkUe11' is not declared. 220 | 0
+1/1/0001 8:42:59 PM: C:\Users\Andrew\AppData\Local\Temp\liqnzmcc.0.vb(220,0) : error BC30451: Name 'inagGEQxDP_uWwurgkUe11' is not declared. 220 | 0
+1/1/0001 8:42:59 PM: C:\Users\Andrew\AppData\Local\Temp\fx0uttwu.0.vb(219,0) : error BC30451: Name 'xdAgLRnfInhEDvc_pXvLyzwlto2' is not declared. 219 | 0
+1/1/0001 8:42:59 PM: C:\Users\Andrew\AppData\Local\Temp\fx0uttwu.0.vb(220,0) : error BC30451: Name 'xdAgLRnfInhEDvc_pXvLyzwlto2' is not declared. 220 | 0
+1/1/0001 8:42:59 PM: C:\Users\Andrew\AppData\Local\Temp\fx0uttwu.0.vb(220,0) : error BC30451: Name 'xdAgLRnfInhEDvc_pXvLyzwlto2' is not declared. 220 | 0
+1/1/0001 8:43:00 PM: C:\Users\Andrew\AppData\Local\Temp\mpoynnh5.0.vb(219,0) : error BC30451: Name 'DnknrhhTOSReka_ZWTNWYZtmDmd10' is not declared. 219 | 0
+1/1/0001 8:43:00 PM: C:\Users\Andrew\AppData\Local\Temp\mpoynnh5.0.vb(220,0) : error BC30451: Name 'DnknrhhTOSReka_ZWTNWYZtmDmd10' is not declared. 220 | 0
+1/1/0001 8:43:00 PM: C:\Users\Andrew\AppData\Local\Temp\mpoynnh5.0.vb(220,0) : error BC30451: Name 'DnknrhhTOSReka_ZWTNWYZtmDmd10' is not declared. 220 | 0
+1/1/0001 8:43:00 PM: C:\Users\Andrew\AppData\Local\Temp\5pyngo3l.0.vb(219,0) : error BC30451: Name 'cmNmAT_VZjDsrNsEJdMpUW6' is not declared. 219 | 0
+1/1/0001 8:43:00 PM: C:\Users\Andrew\AppData\Local\Temp\5pyngo3l.0.vb(220,0) : error BC30451: Name 'cmNmAT_VZjDsrNsEJdMpUW6' is not declared. 220 | 0
+1/1/0001 8:43:00 PM: C:\Users\Andrew\AppData\Local\Temp\5pyngo3l.0.vb(220,0) : error BC30451: Name 'cmNmAT_VZjDsrNsEJdMpUW6' is not declared. 220 | 0
+1/1/0001 8:43:01 PM: C:\Users\Andrew\AppData\Local\Temp\f20kcdjy.0.vb(219,0) : error BC30451: Name 'BsBAdOUp_JoZBnBp7' is not declared. 219 | 0
+1/1/0001 8:43:01 PM: C:\Users\Andrew\AppData\Local\Temp\f20kcdjy.0.vb(220,0) : error BC30451: Name 'BsBAdOUp_JoZBnBp7' is not declared. 220 | 0
+1/1/0001 8:43:01 PM: C:\Users\Andrew\AppData\Local\Temp\f20kcdjy.0.vb(220,0) : error BC30451: Name 'BsBAdOUp_JoZBnBp7' is not declared. 220 | 0
+1/1/0001 8:57:40 PM: vbc : (0,0) : error BC30737: No accessible 'Main' method with an appropriate signature was found in 'eglegnd'. 0 | 0
+1/1/0001 8:57:41 PM: vbc : (0,0) : error BC30737: No accessible 'Main' method with an appropriate signature was found in 'eglegnd'. 0 | 0
+1/1/0001 8:57:42 PM: vbc : (0,0) : error BC30737: No accessible 'Main' method with an appropriate signature was found in 'eglegnd'. 0 | 0
+1/1/0001 8:57:43 PM: vbc : (0,0) : error BC30737: No accessible 'Main' method with an appropriate signature was found in 'eglegnd'. 0 | 0
+1/1/0001 8:57:44 PM: vbc : (0,0) : error BC30737: No accessible 'Main' method with an appropriate signature was found in 'eglegnd'. 0 | 0
+1/1/0001 9:00:22 PM: vbc : (0,0) : error BC30737: No accessible 'Main' method with an appropriate signature was found in 'hurgur'. 0 | 0
+1/1/0001 9:00:23 PM: vbc : (0,0) : error BC30737: No accessible 'Main' method with an appropriate signature was found in 'hurgur'. 0 | 0
+1/1/0001 9:00:24 PM: vbc : (0,0) : error BC30737: No accessible 'Main' method with an appropriate signature was found in 'hurgur'. 0 | 0
+1/1/0001 9:00:25 PM: vbc : (0,0) : error BC30737: No accessible 'Main' method with an appropriate signature was found in 'hurgur'. 0 | 0
+1/1/0001 9:00:26 PM: vbc : (0,0) : error BC30737: No accessible 'Main' method with an appropriate signature was found in 'hurgur'. 0 | 0

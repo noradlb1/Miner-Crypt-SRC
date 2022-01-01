@@ -1,0 +1,81 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+MinerCrypt
+</name>
+</assembly>
+<members>
+<member name="P:Miner_Crypt.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Miner_Crypt.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:Miner_Crypt.My.Resources.Resources.Assemblyinfo">
+	<summary>
+  Looks up a localized string similar to '&lt;Assembly: System.Runtime.CompilerServices.CompilationRelaxations(8)&gt;
+'&lt;Assembly: System.Runtime.CompilerServices.RuntimeCompatibility(WrapNonExceptionThrows:=True)&gt;
+&lt;Assembly: System.Reflection.AssemblyTitle("//AssemblyTitle//")&gt; 
+&lt;Assembly: System.Reflection.AssemblyDescription("//AssemblyDescription//")&gt; 
+&lt;Assembly: System.Reflection.AssemblyCompany("//AssemblyCompany//")&gt; 
+&lt;Assembly: System.Reflection.AssemblyProduct("//AssemblyProduct//")&gt; 
+&lt;Assembly: System.Reflection.AssemblyCopyright("//Assem [rest of string was truncated]";.
+</summary>
+</member><member name="P:Miner_Crypt.My.Resources.Resources.None">
+	<summary>
+  Looks up a localized resource of type System.Byte[].
+</summary>
+</member><member name="P:Miner_Crypt.My.Resources.Resources.Stubres">
+	<summary>
+  Looks up a localized string similar to Imports System
+Imports System.Drawing
+Imports System.Windows.Forms
+Imports Microsoft.VisualBasic
+
+'AssemblyInfo
+
+'#Region " Generated Fake Designer Class "
+'&lt;Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()&gt; _
+'Partial Class Form1
+'    Inherits System.Windows.Forms.Form
+'    &lt;System.Diagnostics.DebuggerNonUserCode()&gt; _
+'    Protected Overrides Sub Dispose(ByVal disposing As Boolean)
+'        Try
+'            If disposing AndAlso components IsNot Nothing Then
+'                 [rest of string was truncated]";.
+</summary>
+</member><member name="P:Miner_Crypt.My.Resources.Resources.upx">
+	<summary>
+  Looks up a localized resource of type System.Byte[].
+</summary>
+</member><member name="T:Miner_Crypt.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:Miner_Crypt.Helpers">
+	<summary>
+ Flat UI Theme
+ Creator: iSynthesis (HF)
+ Version: 1.0.3
+ Date Created: 17/06/2013
+ Date Changed: 20/06/2013
+ UID: 374648
+ For any bugs / errors, PM me.
+ </summary>
+	<remarks></remarks>
+</member><member name="F:Miner_Crypt.FlatAlertBox.W">
+	<summary>
+ How to use: FlatAlertBox.ShowControl(Kind, String, Interval)
+ </summary>
+	<remarks></remarks>
+</member><member name="T:Miner_Crypt.License">
+	<summary>
+ License Loader, Version: 2.0.0.7, Changed: 09/05/2013
+ </summary>
+</member>
+</members>
+</doc>

@@ -1,0 +1,37 @@
+C:\Users\Andrew\Desktop\Miner Crypt\Miner Crypt\bin\x86\Debug\Miner Crypt.exe.config
+C:\Users\Andrew\Desktop\Miner Crypt\Miner Crypt\bin\x86\Debug\Miner Crypt.exe
+C:\Users\Andrew\Desktop\Miner Crypt\Miner Crypt\bin\x86\Debug\Miner Crypt.pdb
+C:\Users\Andrew\Desktop\Miner Crypt\Miner Crypt\bin\x86\Debug\Miner Crypt.xml
+C:\Users\Andrew\Desktop\Miner Crypt\Miner Crypt\obj\x86\Debug\Miner_Crypt.MinerCrypt.resources
+C:\Users\Andrew\Desktop\Miner Crypt\Miner Crypt\obj\x86\Debug\Miner_Crypt.Resources.resources
+C:\Users\Andrew\Desktop\Miner Crypt\Miner Crypt\obj\x86\Debug\Miner Crypt.vbproj.GenerateResource.Cache
+C:\Users\Andrew\Desktop\Miner Crypt\Miner Crypt\obj\x86\Debug\Miner Crypt.exe
+C:\Users\Andrew\Desktop\Miner Crypt\Miner Crypt\obj\x86\Debug\Miner Crypt.xml
+C:\Users\Andrew\Desktop\Miner Crypt\Miner Crypt\obj\x86\Debug\Miner Crypt.pdb
+C:\Users\Andrew\Desktop\Miner Crypt\Miner Crypt\obj\x86\Debug\Miner_Crypt.ScanForm.resources
+C:\Users\Andrew\Desktop\Miner Crypt\Miner Crypt\obj\x86\Debug\Miner_Crypt.mAnom.resources
+D:\Projects\Miner Crypt\Miner Crypt\bin\x86\Debug\Miner Crypt.exe.config
+D:\Projects\Miner Crypt\Miner Crypt\obj\x86\Debug\Miner Crypt.exe
+D:\Projects\Miner Crypt\Miner Crypt\obj\x86\Debug\Miner Crypt.xml
+D:\Projects\Miner Crypt\Miner Crypt\obj\x86\Debug\Miner Crypt.pdb
+D:\Projects\Miner Crypt\Miner Crypt\bin\x86\Debug\Miner Crypt.exe
+D:\Projects\Miner Crypt\Miner Crypt\bin\x86\Debug\Miner Crypt.pdb
+D:\Projects\Miner Crypt\Miner Crypt\bin\x86\Debug\Miner Crypt.xml
+D:\Projects\Miner Crypt\Miner Crypt\obj\x86\Debug\Miner_Crypt.MinerCrypt.resources
+D:\Projects\Miner Crypt\Miner Crypt\obj\x86\Debug\Miner_Crypt.Resources.resources
+D:\Projects\Miner Crypt\Miner Crypt\obj\x86\Debug\Miner_Crypt.ScanForm.resources
+D:\Projects\Miner Crypt\Miner Crypt\obj\x86\Debug\Miner_Crypt.TestMod.resources
+D:\Projects\Miner Crypt\Miner Crypt\obj\x86\Debug\Miner Crypt.vbproj.GenerateResource.Cache
+\\Securitas\d\Projects\Miner Crypt\Miner Crypt\bin\x86\Debug\Miner Crypt.exe.config
+\\Securitas\d\Projects\Miner Crypt\Miner Crypt\obj\x86\Debug\Miner Crypt.exe
+\\Securitas\d\Projects\Miner Crypt\Miner Crypt\obj\x86\Debug\Miner Crypt.xml
+\\Securitas\d\Projects\Miner Crypt\Miner Crypt\obj\x86\Debug\Miner Crypt.pdb
+\\Securitas\d\Projects\Miner Crypt\Miner Crypt\bin\x86\Debug\Miner Crypt.exe
+\\Securitas\d\Projects\Miner Crypt\Miner Crypt\bin\x86\Debug\Miner Crypt.pdb
+\\Securitas\d\Projects\Miner Crypt\Miner Crypt\bin\x86\Debug\Miner Crypt.xml
+\\Securitas\d\Projects\Miner Crypt\Miner Crypt\obj\x86\Debug\Miner Crypt.vbprojResolveAssemblyReference.cache
+\\Securitas\d\Projects\Miner Crypt\Miner Crypt\obj\x86\Debug\Miner_Crypt.MinerCrypt.resources
+\\Securitas\d\Projects\Miner Crypt\Miner Crypt\obj\x86\Debug\Miner_Crypt.Resources.resources
+\\Securitas\d\Projects\Miner Crypt\Miner Crypt\obj\x86\Debug\Miner_Crypt.ScanForm.resources
+\\Securitas\d\Projects\Miner Crypt\Miner Crypt\obj\x86\Debug\Miner_Crypt.TestMod.resources
+\\Securitas\d\Projects\Miner Crypt\Miner Crypt\obj\x86\Debug\Miner Crypt.vbproj.GenerateResource.Cache

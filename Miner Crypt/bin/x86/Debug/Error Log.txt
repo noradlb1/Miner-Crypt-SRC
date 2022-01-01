@@ -1,0 +1,75 @@
+vbc : (0,0) : error BC30737: No accessible 'Main' method with an appropriate signature was found in 'ivegawt'. 0 | 0
+1/1/0001 11:33:27 PM: vbc : (0,0) : error BC30737: No accessible 'Main' method with an appropriate signature was found in 'ivegawt'. 0 | 0
+1/1/0001 11:33:28 PM: vbc : (0,0) : error BC30737: No accessible 'Main' method with an appropriate signature was found in 'ivegawt'. 0 | 0
+1/1/0001 11:33:29 PM: vbc : (0,0) : error BC30737: No accessible 'Main' method with an appropriate signature was found in 'ivegawt'. 0 | 0
+1/1/0001 11:33:30 PM: vbc : (0,0) : error BC30737: No accessible 'Main' method with an appropriate signature was found in 'ivegawt'. 0 | 0
+1/1/0001 11:34:40 PM: vbc : (0,0) : error BC30737: No accessible 'Main' method with an appropriate signature was found in 'bedo'. 0 | 0
+1/1/0001 11:34:41 PM: vbc : (0,0) : error BC30737: No accessible 'Main' method with an appropriate signature was found in 'bedo'. 0 | 0
+1/1/0001 11:34:42 PM: vbc : (0,0) : error BC30737: No accessible 'Main' method with an appropriate signature was found in 'bedo'. 0 | 0
+1/1/0001 11:34:43 PM: vbc : (0,0) : error BC30737: No accessible 'Main' method with an appropriate signature was found in 'bedo'. 0 | 0
+1/1/0001 11:34:44 PM: vbc : (0,0) : error BC30737: No accessible 'Main' method with an appropriate signature was found in 'bedo'. 0 | 0
+1/1/0001 11:43:57 PM: vbc : (0,0) : error BC30737: No accessible 'Main' method with an appropriate signature was found in 'ralala'. 0 | 0
+1/1/0001 11:43:57 PM: C:\Users\Andrew\AppData\Local\Temp\dk5kt5ux.0.vb(172,0) : error BC31029: Method 'Public Shared Sub eDSFASDfsd()' cannot handle Event 'Public Event Load(sender As Object, e As System.EventArgs)' because they do not have the same signature. 172 | 0
+1/1/0001 11:43:58 PM: vbc : (0,0) : error BC30737: No accessible 'Main' method with an appropriate signature was found in 'ralala'. 0 | 0
+1/1/0001 11:43:58 PM: C:\Users\Andrew\AppData\Local\Temp\rnkrmeql.0.vb(172,0) : error BC31029: Method 'Public Shared Sub eDSFASDfsd()' cannot handle Event 'Public Event Load(sender As Object, e As System.EventArgs)' because they do not have the same signature. 172 | 0
+1/1/0001 11:43:59 PM: vbc : (0,0) : error BC30737: No accessible 'Main' method with an appropriate signature was found in 'ralala'. 0 | 0
+1/1/0001 11:43:59 PM: C:\Users\Andrew\AppData\Local\Temp\omwt5oz4.0.vb(172,0) : error BC31029: Method 'Public Shared Sub eDSFASDfsd()' cannot handle Event 'Public Event Load(sender As Object, e As System.EventArgs)' because they do not have the same signature. 172 | 0
+1/1/0001 11:44:00 PM: vbc : (0,0) : error BC30737: No accessible 'Main' method with an appropriate signature was found in 'ralala'. 0 | 0
+1/1/0001 11:44:00 PM: C:\Users\Andrew\AppData\Local\Temp\ofipfw1t.0.vb(172,0) : error BC31029: Method 'Public Shared Sub eDSFASDfsd()' cannot handle Event 'Public Event Load(sender As Object, e As System.EventArgs)' because they do not have the same signature. 172 | 0
+1/1/0001 11:44:00 PM: vbc : (0,0) : error BC30737: No accessible 'Main' method with an appropriate signature was found in 'ralala'. 0 | 0
+1/1/0001 11:44:00 PM: C:\Users\Andrew\AppData\Local\Temp\ciyn3ste.0.vb(172,0) : error BC31029: Method 'Public Shared Sub eDSFASDfsd()' cannot handle Event 'Public Event Load(sender As Object, e As System.EventArgs)' because they do not have the same signature. 172 | 0
+1/1/0001 11:47:01 PM: vbc : (0,0) : error BC30737: No accessible 'Main' method with an appropriate signature was found in 'brapbrap'. 0 | 0
+1/1/0001 11:47:01 PM: C:\Users\Andrew\AppData\Local\Temp\ht0s5ybp.0.vb(172,0) : error BC31029: Method 'Public Shared Sub eDSFASDfsd()' cannot handle Event 'Public Event Load(sender As Object, e As System.EventArgs)' because they do not have the same signature. 172 | 0
+1/1/0001 11:47:02 PM: vbc : (0,0) : error BC30737: No accessible 'Main' method with an appropriate signature was found in 'brapbrap'. 0 | 0
+1/1/0001 11:47:02 PM: C:\Users\Andrew\AppData\Local\Temp\2nwhl5r1.0.vb(172,0) : error BC31029: Method 'Public Shared Sub eDSFASDfsd()' cannot handle Event 'Public Event Load(sender As Object, e As System.EventArgs)' because they do not have the same signature. 172 | 0
+1/1/0001 11:47:03 PM: vbc : (0,0) : error BC30737: No accessible 'Main' method with an appropriate signature was found in 'brapbrap'. 0 | 0
+1/1/0001 11:47:03 PM: C:\Users\Andrew\AppData\Local\Temp\h04lqemu.0.vb(172,0) : error BC31029: Method 'Public Shared Sub eDSFASDfsd()' cannot handle Event 'Public Event Load(sender As Object, e As System.EventArgs)' because they do not have the same signature. 172 | 0
+1/1/0001 11:47:04 PM: vbc : (0,0) : error BC30737: No accessible 'Main' method with an appropriate signature was found in 'brapbrap'. 0 | 0
+1/1/0001 11:47:04 PM: C:\Users\Andrew\AppData\Local\Temp\fkcsl1k2.0.vb(172,0) : error BC31029: Method 'Public Shared Sub eDSFASDfsd()' cannot handle Event 'Public Event Load(sender As Object, e As System.EventArgs)' because they do not have the same signature. 172 | 0
+1/1/0001 11:47:04 PM: vbc : (0,0) : error BC30737: No accessible 'Main' method with an appropriate signature was found in 'brapbrap'. 0 | 0
+1/1/0001 11:47:04 PM: C:\Users\Andrew\AppData\Local\Temp\woutm2jt.0.vb(172,0) : error BC31029: Method 'Public Shared Sub eDSFASDfsd()' cannot handle Event 'Public Event Load(sender As Object, e As System.EventArgs)' because they do not have the same signature. 172 | 0
+1/1/0001 11:49:08 PM: C:\Users\Andrew\AppData\Local\Temp\ninaobw4.0.vb(23,0) : error BC30663: Attribute 'AssemblyDescriptionAttribute' cannot be applied multiple times. 23 | 0
+1/1/0001 11:49:08 PM: C:\Users\Andrew\AppData\Local\Temp\ninaobw4.0.vb(24,0) : error BC30663: Attribute 'AssemblyCompanyAttribute' cannot be applied multiple times. 24 | 0
+1/1/0001 11:49:08 PM: C:\Users\Andrew\AppData\Local\Temp\ninaobw4.0.vb(25,0) : error BC30663: Attribute 'AssemblyProductAttribute' cannot be applied multiple times. 25 | 0
+1/1/0001 11:49:08 PM: C:\Users\Andrew\AppData\Local\Temp\ninaobw4.0.vb(26,0) : error BC30663: Attribute 'AssemblyCopyrightAttribute' cannot be applied multiple times. 26 | 0
+1/1/0001 11:49:08 PM: C:\Users\Andrew\AppData\Local\Temp\ninaobw4.0.vb(27,0) : error BC30663: Attribute 'AssemblyTrademarkAttribute' cannot be applied multiple times. 27 | 0
+1/1/0001 11:49:08 PM: C:\Users\Andrew\AppData\Local\Temp\ninaobw4.0.vb(28,0) : error BC30663: Attribute 'AssemblyVersionAttribute' cannot be applied multiple times. 28 | 0
+1/1/0001 11:49:08 PM: C:\Users\Andrew\AppData\Local\Temp\ninaobw4.0.vb(29,0) : error BC30663: Attribute 'AssemblyFileVersionAttribute' cannot be applied multiple times. 29 | 0
+1/1/0001 11:49:08 PM: C:\Users\Andrew\AppData\Local\Temp\ninaobw4.0.vb(200,0) : error BC30465: 'Imports' statements must precede any declarations. 200 | 0
+1/1/0001 11:49:08 PM: C:\Users\Andrew\AppData\Local\Temp\ninaobw4.0.vb(201,0) : error BC30465: 'Imports' statements must precede any declarations. 201 | 0
+1/1/0001 11:49:09 PM: C:\Users\Andrew\AppData\Local\Temp\tf54istg.0.vb(23,0) : error BC30663: Attribute 'AssemblyDescriptionAttribute' cannot be applied multiple times. 23 | 0
+1/1/0001 11:49:09 PM: C:\Users\Andrew\AppData\Local\Temp\tf54istg.0.vb(24,0) : error BC30663: Attribute 'AssemblyCompanyAttribute' cannot be applied multiple times. 24 | 0
+1/1/0001 11:49:09 PM: C:\Users\Andrew\AppData\Local\Temp\tf54istg.0.vb(25,0) : error BC30663: Attribute 'AssemblyProductAttribute' cannot be applied multiple times. 25 | 0
+1/1/0001 11:49:09 PM: C:\Users\Andrew\AppData\Local\Temp\tf54istg.0.vb(26,0) : error BC30663: Attribute 'AssemblyCopyrightAttribute' cannot be applied multiple times. 26 | 0
+1/1/0001 11:49:09 PM: C:\Users\Andrew\AppData\Local\Temp\tf54istg.0.vb(27,0) : error BC30663: Attribute 'AssemblyTrademarkAttribute' cannot be applied multiple times. 27 | 0
+1/1/0001 11:49:09 PM: C:\Users\Andrew\AppData\Local\Temp\tf54istg.0.vb(28,0) : error BC30663: Attribute 'AssemblyVersionAttribute' cannot be applied multiple times. 28 | 0
+1/1/0001 11:49:09 PM: C:\Users\Andrew\AppData\Local\Temp\tf54istg.0.vb(29,0) : error BC30663: Attribute 'AssemblyFileVersionAttribute' cannot be applied multiple times. 29 | 0
+1/1/0001 11:49:09 PM: C:\Users\Andrew\AppData\Local\Temp\tf54istg.0.vb(200,0) : error BC30465: 'Imports' statements must precede any declarations. 200 | 0
+1/1/0001 11:49:09 PM: C:\Users\Andrew\AppData\Local\Temp\tf54istg.0.vb(201,0) : error BC30465: 'Imports' statements must precede any declarations. 201 | 0
+1/1/0001 11:49:10 PM: C:\Users\Andrew\AppData\Local\Temp\aa4hrpst.0.vb(23,0) : error BC30663: Attribute 'AssemblyDescriptionAttribute' cannot be applied multiple times. 23 | 0
+1/1/0001 11:49:10 PM: C:\Users\Andrew\AppData\Local\Temp\aa4hrpst.0.vb(24,0) : error BC30663: Attribute 'AssemblyCompanyAttribute' cannot be applied multiple times. 24 | 0
+1/1/0001 11:49:10 PM: C:\Users\Andrew\AppData\Local\Temp\aa4hrpst.0.vb(25,0) : error BC30663: Attribute 'AssemblyProductAttribute' cannot be applied multiple times. 25 | 0
+1/1/0001 11:49:10 PM: C:\Users\Andrew\AppData\Local\Temp\aa4hrpst.0.vb(26,0) : error BC30663: Attribute 'AssemblyCopyrightAttribute' cannot be applied multiple times. 26 | 0
+1/1/0001 11:49:10 PM: C:\Users\Andrew\AppData\Local\Temp\aa4hrpst.0.vb(27,0) : error BC30663: Attribute 'AssemblyTrademarkAttribute' cannot be applied multiple times. 27 | 0
+1/1/0001 11:49:10 PM: C:\Users\Andrew\AppData\Local\Temp\aa4hrpst.0.vb(28,0) : error BC30663: Attribute 'AssemblyVersionAttribute' cannot be applied multiple times. 28 | 0
+1/1/0001 11:49:10 PM: C:\Users\Andrew\AppData\Local\Temp\aa4hrpst.0.vb(29,0) : error BC30663: Attribute 'AssemblyFileVersionAttribute' cannot be applied multiple times. 29 | 0
+1/1/0001 11:49:10 PM: C:\Users\Andrew\AppData\Local\Temp\aa4hrpst.0.vb(200,0) : error BC30465: 'Imports' statements must precede any declarations. 200 | 0
+1/1/0001 11:49:10 PM: C:\Users\Andrew\AppData\Local\Temp\aa4hrpst.0.vb(201,0) : error BC30465: 'Imports' statements must precede any declarations. 201 | 0
+1/1/0001 11:49:11 PM: C:\Users\Andrew\AppData\Local\Temp\123suwdw.0.vb(23,0) : error BC30663: Attribute 'AssemblyDescriptionAttribute' cannot be applied multiple times. 23 | 0
+1/1/0001 11:49:11 PM: C:\Users\Andrew\AppData\Local\Temp\123suwdw.0.vb(24,0) : error BC30663: Attribute 'AssemblyCompanyAttribute' cannot be applied multiple times. 24 | 0
+1/1/0001 11:49:11 PM: C:\Users\Andrew\AppData\Local\Temp\123suwdw.0.vb(25,0) : error BC30663: Attribute 'AssemblyProductAttribute' cannot be applied multiple times. 25 | 0
+1/1/0001 11:49:11 PM: C:\Users\Andrew\AppData\Local\Temp\123suwdw.0.vb(26,0) : error BC30663: Attribute 'AssemblyCopyrightAttribute' cannot be applied multiple times. 26 | 0
+1/1/0001 11:49:11 PM: C:\Users\Andrew\AppData\Local\Temp\123suwdw.0.vb(27,0) : error BC30663: Attribute 'AssemblyTrademarkAttribute' cannot be applied multiple times. 27 | 0
+1/1/0001 11:49:11 PM: C:\Users\Andrew\AppData\Local\Temp\123suwdw.0.vb(28,0) : error BC30663: Attribute 'AssemblyVersionAttribute' cannot be applied multiple times. 28 | 0
+1/1/0001 11:49:11 PM: C:\Users\Andrew\AppData\Local\Temp\123suwdw.0.vb(29,0) : error BC30663: Attribute 'AssemblyFileVersionAttribute' cannot be applied multiple times. 29 | 0
+1/1/0001 11:49:11 PM: C:\Users\Andrew\AppData\Local\Temp\123suwdw.0.vb(200,0) : error BC30465: 'Imports' statements must precede any declarations. 200 | 0
+1/1/0001 11:49:11 PM: C:\Users\Andrew\AppData\Local\Temp\123suwdw.0.vb(201,0) : error BC30465: 'Imports' statements must precede any declarations. 201 | 0
+1/1/0001 11:49:12 PM: C:\Users\Andrew\AppData\Local\Temp\yxpyrhy4.0.vb(23,0) : error BC30663: Attribute 'AssemblyDescriptionAttribute' cannot be applied multiple times. 23 | 0
+1/1/0001 11:49:12 PM: C:\Users\Andrew\AppData\Local\Temp\yxpyrhy4.0.vb(24,0) : error BC30663: Attribute 'AssemblyCompanyAttribute' cannot be applied multiple times. 24 | 0
+1/1/0001 11:49:12 PM: C:\Users\Andrew\AppData\Local\Temp\yxpyrhy4.0.vb(25,0) : error BC30663: Attribute 'AssemblyProductAttribute' cannot be applied multiple times. 25 | 0
+1/1/0001 11:49:12 PM: C:\Users\Andrew\AppData\Local\Temp\yxpyrhy4.0.vb(26,0) : error BC30663: Attribute 'AssemblyCopyrightAttribute' cannot be applied multiple times. 26 | 0
+1/1/0001 11:49:12 PM: C:\Users\Andrew\AppData\Local\Temp\yxpyrhy4.0.vb(27,0) : error BC30663: Attribute 'AssemblyTrademarkAttribute' cannot be applied multiple times. 27 | 0
+1/1/0001 11:49:12 PM: C:\Users\Andrew\AppData\Local\Temp\yxpyrhy4.0.vb(28,0) : error BC30663: Attribute 'AssemblyVersionAttribute' cannot be applied multiple times. 28 | 0
+1/1/0001 11:49:12 PM: C:\Users\Andrew\AppData\Local\Temp\yxpyrhy4.0.vb(29,0) : error BC30663: Attribute 'AssemblyFileVersionAttribute' cannot be applied multiple times. 29 | 0
+1/1/0001 11:49:12 PM: C:\Users\Andrew\AppData\Local\Temp\yxpyrhy4.0.vb(200,0) : error BC30465: 'Imports' statements must precede any declarations. 200 | 0
+1/1/0001 11:49:12 PM: C:\Users\Andrew\AppData\Local\Temp\yxpyrhy4.0.vb(201,0) : error BC30465: 'Imports' statements must precede any declarations. 201 | 0

@@ -1,0 +1,26 @@
+C:\Users\Andrew\Desktop\Miner Crypt\Miner Crypt\bin\x86\Release\Miner Crypt.exe.config
+C:\Users\Andrew\Desktop\Miner Crypt\Miner Crypt\bin\x86\Release\Miner Crypt.exe
+C:\Users\Andrew\Desktop\Miner Crypt\Miner Crypt\bin\x86\Release\Miner Crypt.pdb
+C:\Users\Andrew\Desktop\Miner Crypt\Miner Crypt\bin\x86\Release\Miner Crypt.xml
+C:\Users\Andrew\Desktop\Miner Crypt\Miner Crypt\obj\x86\Release\Miner_Crypt.MinerCrypt.resources
+C:\Users\Andrew\Desktop\Miner Crypt\Miner Crypt\obj\x86\Release\Miner_Crypt.Resources.resources
+C:\Users\Andrew\Desktop\Miner Crypt\Miner Crypt\obj\x86\Release\Miner Crypt.vbproj.GenerateResource.Cache
+C:\Users\Andrew\Desktop\Miner Crypt\Miner Crypt\obj\x86\Release\Miner Crypt.exe
+C:\Users\Andrew\Desktop\Miner Crypt\Miner Crypt\obj\x86\Release\Miner Crypt.xml
+C:\Users\Andrew\Desktop\Miner Crypt\Miner Crypt\obj\x86\Release\Miner Crypt.pdb
+C:\Users\Andrew\Desktop\Miner Crypt\Miner Crypt\obj\x86\Release\Miner Crypt.vbprojResolveAssemblyReference.cache
+C:\Users\Andrew\Desktop\Miner Crypt\Miner Crypt\obj\x86\Release\Miner_Crypt.ScanForm.resources
+C:\Users\Andrew\Desktop\Miner Crypt\Miner Crypt\obj\x86\Release\Miner_Crypt.TestMod.resources
+D:\Projects\Miner Crypt\Miner Crypt\bin\x86\Release\Miner Crypt.exe.config
+D:\Projects\Miner Crypt\Miner Crypt\bin\x86\Release\Miner Crypt.exe
+D:\Projects\Miner Crypt\Miner Crypt\bin\x86\Release\Miner Crypt.pdb
+D:\Projects\Miner Crypt\Miner Crypt\bin\x86\Release\Miner Crypt.xml
+D:\Projects\Miner Crypt\Miner Crypt\obj\x86\Release\Miner Crypt.vbprojResolveAssemblyReference.cache
+D:\Projects\Miner Crypt\Miner Crypt\obj\x86\Release\Miner_Crypt.MinerCrypt.resources
+D:\Projects\Miner Crypt\Miner Crypt\obj\x86\Release\Miner_Crypt.Resources.resources
+D:\Projects\Miner Crypt\Miner Crypt\obj\x86\Release\Miner_Crypt.ScanForm.resources
+D:\Projects\Miner Crypt\Miner Crypt\obj\x86\Release\Miner_Crypt.TestMod.resources
+D:\Projects\Miner Crypt\Miner Crypt\obj\x86\Release\Miner Crypt.vbproj.GenerateResource.Cache
+D:\Projects\Miner Crypt\Miner Crypt\obj\x86\Release\Miner Crypt.exe
+D:\Projects\Miner Crypt\Miner Crypt\obj\x86\Release\Miner Crypt.xml
+D:\Projects\Miner Crypt\Miner Crypt\obj\x86\Release\Miner Crypt.pdb

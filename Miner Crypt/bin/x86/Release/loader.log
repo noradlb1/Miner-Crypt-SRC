@@ -1,0 +1,6 @@
+7/4/2015 4:43:34 PM
+
+Attempt by security transparent method 'Miner_Crypt.License.CheckCore()' to call native code through method 'Miner_Crypt.License.CreateInstance(System.Guid, System.Guid)' failed.  Methods must be security critical or security safe-critical to call native code.
+   at Miner_Crypt.License.CheckCore() in C:\Users\Andrew\Desktop\Miner Crypt\Miner Crypt\License.vb:line 616
+   at Miner_Crypt.License.ValidateSignature() in C:\Users\Andrew\Desktop\Miner Crypt\Miner Crypt\License.vb:line 470
+   at Miner_Crypt.License.Initialize() in C:\Users\Andrew\Desktop\Miner Crypt\Miner Crypt\License.vb:line 288
